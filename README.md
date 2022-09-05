@@ -8,8 +8,10 @@
 
 ### DISCORD PROFILE CARD
 
- <h3>🌙・Discord</h3>
+Press for website of the profile card
+
  <a href="https://t3m1n4l.github.io/ejdiscordprofile.github.io/">
-  <img src="">
+  <img src="https://raw.githubusercontent.com/T3M1N4L/LOGO/main/discordprofile.gif">
 </a>
+
 
