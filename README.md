@@ -20,4 +20,4 @@
 
 https://discordapp.com
 
-https://www.gstatic.com/atari/embeds/7925c5f8e01bacb9b4b0a3783ae0b867/intermediate-frame-minified.html?jsh=m;/_/scs/abc-static/_/js/k=gapi.lb.en.z9QjrzsHcOc.O/d=1/rs=AHpOoo8359JQqZQ0dzCVJ5Ui3CZcERHEWA/m=__features__&amp;r=994388648
+https://frivez.com/flashgame?load=cat-ninja
