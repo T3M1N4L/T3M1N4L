@@ -20,4 +20,8 @@
 
 https://discordapp.com
 
-https://frivez.com/flashgame?load=cat-ninja
+https://google.com
+
+https://open.spotify.com
+
+https://games.ninjablade.repl.co/
