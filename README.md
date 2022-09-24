@@ -18,7 +18,7 @@
 ![T3M1N4L's GitHub stats](https://github-readme-stats.vercel.app/api?username=T3M1N4L&show_icons=true&theme=tokyonight)
 
 
-https://discordapp.com
+https://discordapp.com/channels/@me
 
 https://google.com
 
