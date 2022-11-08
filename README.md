@@ -24,6 +24,4 @@ https://google.com
 
 https://open.spotify.com
 
-https://verify.dcounter.space/v/9302r12l9z
-
-https://dsc.gg/rjain
+https://v6p9d9t4.ssl.hwcdn.net/html/4505492/index.html&quot
