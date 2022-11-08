@@ -24,4 +24,4 @@ https://google.com
 
 https://open.spotify.com
 
-https://v6p9d9t4.ssl.hwcdn.net/html/4505492/index.html&quot
+https://z-richman.itch.io/maze-of-the-mini-taur
