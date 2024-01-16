@@ -8,7 +8,7 @@
 
 ### STATS
 
-![T3M1N4L's GitHub stats](https://github-readme-stats.vercel.app/api?username=T3M1N4L&show_icons=true&theme=tokyonight)
+![T3M1N4L's GitHub stats](https://github-readme-stats.vercel.app/api?username=T3M1N4L&show_icons=true&title_color=59ffa9ff&text_color=8E8E8E&icon_color=cf93faff&bg_color=000000ff)
 
 
 https://discordapp.com/channels/@me
