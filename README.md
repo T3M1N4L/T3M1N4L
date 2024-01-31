@@ -3,7 +3,7 @@
 
  <h3>🌙・Discord</h3>
  <a href="https://discord.com/users/861917446750863402">
-  <img src="[https://lanyard.cnrad.dev/api/861917446750863402](https://lanyard-profile-readme.vercel.app/api/861917446750863402?theme=dark&bg=000&animated=true&hideDiscrim=false&borderRadius=20px&idleMessage=%3C%2Fbeing+lazy%3E...)">
+  <img src="https://lanyard-profile-readme.vercel.app/api/861917446750863402?theme=dark&bg=000&animated=true&hideDiscrim=false&borderRadius=20px&idleMessage=%3C%2Fbeing+lazy%3E..">
 </a>  
 
 ### STATS
