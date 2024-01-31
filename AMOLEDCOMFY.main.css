@@ -188,7 +188,7 @@
 }
 :root .navButtonActive__735cb,
 :root .emojiItem_b15dee.emojiItemSelected__1a09a {
-  background-color: rgba(110, 133, 211, 0.1294117647);
+  background-color: rgba(110, 218, 168, 0.129);
 }
 :root .imageLoading__37d01 {
   background-image: none !important;
@@ -480,13 +480,13 @@
   color: #ff73fa;
 }
 :root #guild-header-popout-invite-people {
-  color: #677bc4;
+  color: #5479ff;
 }
 :root #guild-header-popout-invite-people:hover, :root #guild-header-popout-invite-people:active:not(.hideInteraction__2790e), :root #guild-header-popout-invite-people.focused__27621 {
   background-color: rgba(103, 123, 196, 0.1176470588);
 }
 :root #guild-header-popout-invite-people .icon_f09dde {
-  color: #677bc4;
+  color: #5479ff;
 }
 :root #guild-header-popout-settings:hover, :root #guild-header-popout-settings:active:not(.hideInteraction__2790e), :root #guild-header-popout-settings.focused__27621 {
   background-color: rgba(84, 110, 122, 0.1176470588);
@@ -516,7 +516,7 @@
   background-color: rgba(237, 233, 230, 0.0666666667);
 }
 :root #guild-header-popout-create-event .icon_f09dde > path:first-child {
-  fill: #677bc4;
+  fill: #5479ff;
 }
 :root #guild-header-popout-create-event .icon_f09dde > path:last-child {
   fill: #ede9e6;
@@ -525,7 +525,7 @@
   background-color: rgba(84, 136, 247, 0.1921568627);
 }
 :root #guild-header-popout-active-threads .icon_f09dde {
-  color: #5488f7;
+  color: #5479ff;
 }
 :root #guild-header-popout-application-directory:hover, :root #guild-header-popout-application-directory:active:not(.hideInteraction__2790e), :root #guild-header-popout-application-directory.focused__27621 {
   background-color: rgba(48, 73, 87, 0.0745098039);
@@ -543,7 +543,7 @@
   background-color: rgba(74, 131, 212, 0.0941176471);
 }
 :root #guild-header-popout-privacy .icon_f09dde {
-  color: #4a84d4;
+  color: #5479ff;
 }
 :root #guild-header-popout-change-nickname:hover, :root #guild-header-popout-change-nickname:active:not(.hideInteraction__2790e), :root #guild-header-popout-change-nickname.focused__27621 {
   background-color: rgba(67, 181, 130, 0.0941176471);
@@ -917,7 +917,7 @@
   z-index: -2;
   left: 0;
   top: 0;
-  background: #7289da;
+  background: #5479ff;
   background: var(--playing);
   border-radius: 0 0 10px 10px;
 }
@@ -929,7 +929,7 @@
   width: 284px;
   top: -24px;
   left: 0;
-  background: #7289da;
+  background: #5479ff;
   background: var(--playing);
   -webkit-mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="284" height="25" viewBox="0 0 284 25"><path d="M283.999 15.2776C228.798 15.2776 211.243 -0.0317305 140.048 -0.000164877C69.0475 -0.000164877 51.2975 15.2776 8.58307e-06 15.2776V24.9998H284C284 24.9998 283.999 18.9392 283.999 15.2776Z"/></svg>');
   animation: animate 6s linear infinite;
@@ -1135,7 +1135,7 @@
   z-index: -2;
   left: 0;
   top: 0;
-  background: #7289da;
+  background: #5479ff;
 }
 :root .userProfileModalOuter__3fe6b .activityProfileV2__4de28 .timeBarProfileV2__184c9::after {
   content: "";
@@ -1389,7 +1389,7 @@
   position: relative;
   padding: 16px;
   margin: 16px 0;
-  background-color: #7289da;
+  background-color: #5479ff;
   border-radius: 0 0 5px 5px;
 }
 :root .preview__0c5fe .profileCustomizationPreview_ccc6a9 .lastSection__37b97 .defaultColor__77578,
@@ -1404,7 +1404,7 @@
   width: 284px;
   top: -20px;
   left: 0;
-  background: #7289da;
+  background: #5479ff;
   background: var(--playing);
   -webkit-mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="284" height="25" viewBox="0 0 284 25"><path d="M283.999 15.2776C228.798 15.2776 211.243 -0.0317305 140.048 -0.000164877C69.0475 -0.000164877 51.2975 15.2776 8.58307e-06 15.2776V24.9998H284C284 24.9998 283.999 18.9392 283.999 15.2776Z"/></svg>');
   animation: animate 6s linear infinite;
@@ -1955,7 +1955,7 @@
   z-index: -2;
   left: 0;
   top: 0;
-  background: #7289da;
+  background: #5479ff;
   background: var(--playing);
   border-radius: 0 0 10px 10px;
 }
@@ -1967,7 +1967,7 @@
   width: 284px;
   top: -24px;
   left: 0;
-  background: #7289da;
+  background: #5479ff;
   background: var(--playing);
   -webkit-mask-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="284" height="25" viewBox="0 0 284 25"><path d="M283.999 15.2776C228.798 15.2776 211.243 -0.0317305 140.048 -0.000164877C69.0475 -0.000164877 51.2975 15.2776 8.58307e-06 15.2776V24.9998H284C284 24.9998 283.999 18.9392 283.999 15.2776Z"/></svg>');
   animation: animate 6s linear infinite;
@@ -2063,8 +2063,8 @@
 }
 
 :root {
-  --brand-experiment: #7289da;
-  --brand-experiment-560: #5b70be;
+  --brand-experiment: #5479ff;
+  --brand-experiment-560: #5479ff;
 }
 :root .select__0eb48,
 :root .popout_a6e77f {
