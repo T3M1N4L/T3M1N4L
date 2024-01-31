@@ -2123,11 +2123,11 @@
 :root .container__4bde3 > .content__0e954::before {
   content: "";
   position: absolute;
-  bottom: 20px;
-  left: calc(50% - 100px);
-  width: 400px;
-  height: 400px;
-  background: url("https://raw.githubusercontent.com/T3M1N4L/T3M1N4L/main/images/hmm-meeting.gif") center/80% no-repeat;
+  bottom: 20px !important;
+  left: calc(50% - 100px) !important;
+  width: 400px !important;
+  height: 400px !important;
+  background: url("https://raw.githubusercontent.com/T3M1N4L/T3M1N4L/main/images/hmm-meeting.gif") center/80% no-repeat !important;
 }
 :root .pointerEvents__33f6a[fill="#23a55a"] {
   fill: var(--online);
