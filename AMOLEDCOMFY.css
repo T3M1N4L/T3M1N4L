@@ -44,7 +44,7 @@
   --user-buttons-spacing: 8px !important;
 
   /* Color - Default value : #096DC0 */
-  --user-buttons-color: #84ffe2 !important;
+  --user-buttons-color: #70ffba !important;
 
   /* ═══════『 ⭕ Roundness settings 』═══════
 *
@@ -120,7 +120,7 @@
   --playing: #a784ff !important;
 
   /* Listening wave color */
-  --listening: #88ffb2 !important;
+  --listening: #52ef89 !important;
 
   /* Role circle - Default value : 5px */
   --role-circle: 5px !important;
@@ -162,7 +162,7 @@
   --background-secondary: #1e2233 !important;
   --background-secondary-alt: #191f2e !important;
   --background-tertiary: #101320 !important;
-  --background-accent: #7289da !important;
+  --background-accent: #3964ff !important;
   --background-modifier-hover: #262b41 !important;
   --background-modifier-active: #262b41 !important;
   --modal-background: var(--background-primary) !important;
