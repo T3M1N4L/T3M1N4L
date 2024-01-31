@@ -2124,7 +2124,7 @@
   content: "";
   position: absolute;
   bottom: 20px;
-  left: calc(50% - 100px);
+  left: calc(50% - 80px);
   width: 400px;
   height: 400px;
   background: url("https://raw.githubusercontent.com/T3M1N4L/T3M1N4L/main/images/hmm-meeting.gif") center/80% no-repeat;
