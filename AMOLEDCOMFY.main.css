@@ -2125,8 +2125,8 @@
   position: absolute;
   bottom: 20px;
   left: calc(50% - 100px);
-  width: 300px;
-  height: 300px;
+  width: 200px;
+  height: 200px;
   background: url("https://raw.githubusercontent.com/T3M1N4L/T3M1N4L/main/images/hmm-meeting.gif") center/80% no-repeat;
 }
 :root .pointerEvents__33f6a[fill="#23a55a"] {
