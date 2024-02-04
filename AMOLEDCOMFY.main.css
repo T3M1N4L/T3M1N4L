@@ -1,3 +1,349 @@
+CSS
+/**
+* @name AMOLEDCOMFY
+* @author T3RM1N4L
+* @description Stay comfy while talking to your friends
+* @invite rtBQX5D3bD
+* @version 2.4
+* @donate https://ko-fi.com/nyria
+*/
+
+img[src="https://cdn.discordapp.com/avatars/861917446750863402/51ee285f0a23185133c7660d80096028.webp?size=80"]
+ { 
+  content: url("https://cdn.discordapp.com/avatars/861917446750863402/51ee285f0a23185133c7660d80096028.gif?size=80") !important;
+ 
+  }
+
+.userAvatar_c4f005:is([style*="861917446750863402"]),.avatar__08316:is([src^="https://cdn.discordapp.com/avatars/861917446750863402"]),.avatar__991e2:is([src^="https://cdn.discordapp.com/avatars/861917446750863402"]){
+    content:url(https://cdn.discordapp.com/avatars/861917446750863402/51ee285f0a23185133c7660d80096028.gif) !important;
+    object-fit:scale-down !important;
+    aspect-ratio:1 !important;
+    background-image:none !important;
+}
+/* 🛩️ Airplane */
+[style*='background-image: url("/assets/c7c4065874955761be3b.svg");'],
+[style*='background-image: url("/assets/a1b0a14d2f22c155a2b3.svg");'] {
+  background-image: url("https://nyri4.github.io/Discolored/assets/airplane.svg") !important;
+}
+
+/* 🕹️ Arcades */
+[style*='background-image: url("/assets/0fcdddd7e59d53cf3253.svg");'],
+[style*='background-image: url("/assets/ff9cfb0571740063f0be.svg");'] {
+  background-image: url("https://nyri4.github.io/Discolored/assets/arcades.svg") !important;
+}
+
+/* 🔨 Ban Hammer */
+[style*='background-image: url("/assets/cdc3f4f6fbf3a0f0766f.svg");'],
+[style*='background-image: url("/assets/c65431f185feb7b00749.svg");'] {
+  background-image: url("https://nyri4.github.io/Discolored/assets/ban_hammer.svg") !important;
+}
+
+/* 🚀 Boost */
+.theme-dark .channelNotice-3-mDJt,
+.theme-light .channelNotice-3-mDJt {
+  background-image: url("https://nyri4.github.io/Discolored/assets/boost.svg");
+  background-repeat: no-repeat;
+}
+
+/* 🔎💥 Broken magnifying glass */
+:root .errorImage__416df {
+  background: url("https://nyri4.github.io/Discolored/assets/broken.svg")
+    center/cover;
+}
+
+/* 🏰 Castle */
+:root .verification__82f71 .image__54a8d {
+  background: url("https://nyri4.github.io/Discolored/assets/castle.svg") 50%/80%
+    no-repeat;
+}
+
+/* ⚙️ Channel settings here and u didn't finished */
+[src="/assets/c1875fc8a42a61903ba1.svg"],
+[src="/assets/73984240bd99493de947.svg"] {
+  content: url("https://nyri4.github.io/Discolored/assets/channel_settings.svg");
+}
+
+/* ⚙️ Category settings */
+[src="/assets/1964f50ca0220e98dc32.svg"],
+[src="/assets/387a7c504c96b992872d.svg"] {
+  content: url("https://nyri4.github.io/Discolored/assets/category_settings.svg");
+}
+
+/* 👥 🖼️ Community banner */
+.previewCard-DOrO3c .splashImage-352DQ1 {
+  content: url("https://nyri4.github.io/Discolored/assets/community_banner.svg");
+}
+
+/* 🖥️ Computer */
+[style*='background-image: url("/assets/c115d59ca13c0f942965a82a0f05bf01.svg");'],
+[style*='background-image: url(/assets/ad530d02033b87bb89752f915c2fbe3c.svg");'] {
+  background-image: url("https://nyri4.github.io/Discolored/assets/computer.svg") !important;
+}
+
+/* 💥 Crash */
+:root .image_dabcb8 {
+  background-image: url("https://nyri4.github.io/Discolored/assets/crash.svg");
+}
+
+/* 🎮 Developer Options */
+[style*='background-image: url("/assets/8debd25fc894741dafd0.svg");'],
+[style*='background-image: url("/assets/a0e249703c7cad81a7c1.svg");'] {
+  background-image: url("https://nyri4.github.io/Discolored/assets/dev_options.svg") !important;
+}
+
+/* 😃 Emojis */
+[style*='background-image: url("/assets/295da3fc92e2adb1b852.svg");'],
+[style*='background-image: url("/assets/c8be48745cf680093019.svg");'] {
+  background-image: url("https://nyri4.github.io/Discolored/assets/emojis.svg") !important;
+}
+
+/* 📭 Empty */
+:root .image__88b66,
+:root .emptyImage__66bed {
+  background-image: url("https://nyri4.github.io/Discolored/assets/empty.svg");
+}
+
+/* 😊 Friend */
+.theme-dark .channelNotice-tO6Tus.invite-OjTXrW,
+.theme-light .channelNotice-tO6Tus.invite-OjTXrW {
+  background: url("https://nyri4.github.io/Discolored/assets/friend.svg")
+    no-repeat center 20px;
+  background-size: 40%;
+}
+
+/* 🤷‍♂️ GIF not found */
+:root .sadImage_e4e5ab {
+  background-image: url("https://nyri4.github.io/Discolored/assets/gif_not_found.svg");
+}
+
+/* 🤷‍ GIF picker end */
+:root .endContainer__0c909::after {
+  background-image: url("https://nyri4.github.io/Discolored/assets/gif_picker_end.svg");
+}
+
+/* 👥 Groups */
+:root .noFriends_a7f7ca .errorStateIcon__7edd85 {
+  background-image: url("https://nyri4.github.io/Discolored/assets/groups.svg");
+}
+
+/* 🎁 Gift Inventory */
+:root .emptyStateImage__3e0a5,
+:root .emptyWumpus__67af4 {
+  background-image: url("https://nyri4.github.io/Discolored/assets/gift_inventory.svg");
+}
+
+/* 🏠 Houses */
+:root .emptyIconGuilds__72704 {
+  background-image: url("https://nyri4.github.io/Discolored/assets/houses.svg");
+}
+
+/* ✨ Integrations */
+:root .footerImage__21e33 {
+  background-image: url("https://nyri4.github.io/Discolored/assets/integrations.svg");
+}
+
+[src="/assets/d89511b11686ab5c942b3ef900e3d0eb.svg"],
+[src="/assets/552bbc1a21ccdc1778e72f30154593ef.svg"] {
+  content: url("https://nyri4.github.io/Discolored/assets/integrations.svg");
+}
+
+/* 🔑 Key */
+.theme-dark .channelNotice-tO6Tus.guildMFAWarning-3GEzs8,
+.theme-light .channelNotice-tO6Tus.guildMFAWarning-3GEzs8 {
+  background: url("https://nyri4.github.io/Discolored/assets/key.svg") no-repeat
+    center 20px;
+  background-size: 40%;
+}
+
+/* ❌ No channel */
+[style*='background-image: url("/assets/dee199baf31d0fc4227d.svg");'],
+[style*='background-image: url("/assets/8f386efbc744b1e32997.svg");'] {
+  background-image: url("https://nyri4.github.io/Discolored/assets/no_channel.svg") !important;
+}
+
+/* ⌨️ No keybinds */
+[style*='background-image: url("/assets/12d9bda733d6432d605e8011c22c3e56.svg");'],
+[style*='background-image: url("/assets/8de4b17bb44ad5ef9f21f2f6f16aa8d1.svg");'] {
+  background-image: url("https://nyri4.github.io/Discolored/assets/no_keybinds.svg") !important;
+}
+
+/* 🙁 No Mutuals */
+:root .emptyIconFriends__8e334 {
+  background-image: url("https://nyri4.github.io/Discolored/assets/no_mutuals.svg");
+  background-size: 100%;
+}
+
+/* 🔎 🗣️ No results conversation */
+:root .emptyState_afda24 {
+  background-image: url("https://nyri4.github.io/Discolored/assets/no_results_conv.svg");
+  background-size: 20%;
+}
+
+/* 🔎 No results search bar*/
+:root .noResultsImage__08760 {
+  background-image: url("https://nyri4.github.io/Discolored/assets/no_results.svg");
+}
+
+/* 📱 Phones */
+:root .verificationBlock_c45d0e .image__54a8d.phone__0b460 {
+  background-image: url("https://nyri4.github.io/Discolored/assets/phones.svg");
+}
+
+/* 🖼️ Pictures */
+[style*='background-image: url("/assets/53e9102a961af6cf7254.svg");'],
+[style*='background-image: url("/assets/db947193d549bd45c3a3.svg");'] {
+  background-image: url("https://nyri4.github.io/Discolored/assets/pictures.svg") !important;
+}
+
+/* 📌 Pinned */
+[style*='background-image: url("/assets/64df6f04b850029d2e78.svg");'],
+[style*='background-image: url("/assets/9e2f412156e2ac1f14e9.svg");'] {
+  background-image: url("https://nyri4.github.io/Discolored/assets/pinned.svg") !important;
+}
+
+/* 💩 Poo */
+:root .imageError__77b3e,
+:root .invalidPoop__03aa3,
+:root .guildIconExpired__1d51f {
+  content: url("https://nyri4.github.io/Discolored/assets/poop.svg");
+}
+
+/* 📜 Scroll */
+[style*='background-image: url("/assets/cf8f9096a9322f2ae0d7.svg");'],
+[style*='background-image: url("/assets/5e3480eff150b1cb323e.svg");'] {
+  background-image: url("https://nyri4.github.io/Discolored/assets/scroll.svg") !important;
+}
+
+/* 🔎 Searching */
+.theme-dark .searchIndexBackground__14e66,
+.theme-light .searchIndexBackground__14e66 {
+  background-image: url("https://nyri4.github.io/Discolored/assets/searching.svg");
+}
+
+/* 🔥 Server outage */
+.theme-dark .art-_juKdZ,
+.theme-light .art-_juKdZ {
+  background-image: url("https://nyri4.github.io/Discolored/assets/server_outage.svg");
+}
+
+/* 🟢 Spotify error */
+:root .artworkSpotifySessionEnded__8272a {
+  background-image: url("https://nyri4.github.io/Discolored/assets/spotify_error.svg");
+}
+
+/* 🤷‍♂️ Sticker not found */
+[style*='background-image: url("/assets/d6e0ab2f94e516718aa7.svg");'] {
+  background-image: url("https://nyri4.github.io/Discolored/assets/sticker_not_found.svg") !important;
+}
+
+/* 🔴 Streamer Mode */
+:root .streamerModeEnabledImage_a0d94f,
+:root .emptyIconStreamerMode__0b218 {
+  background-image: url("https://nyri4.github.io/Discolored/assets/streamer_mode.svg");
+}
+
+/* ↔️ Switch */
+.theme-dark .channelNotice-tO6Tus.quickswitcher-35bYg4,
+.theme-light .channelNotice-tO6Tus.quickswitcher-35bYg4 {
+  background: url("https://nyri4.github.io/Discolored/assets/switch.svg")
+    no-repeat center 20px;
+}
+
+/* 📹 Test Video */
+:root .previewImage__91c1c {
+  content: url("https://nyri4.github.io/Discolored/assets/test_video.svg");
+}
+
+/* 🗝️ Treasure Chest */
+[src="/assets/67430d140a79af95585a19d304731dc5.svg"],
+[src="/assets/d6779172ed9209b5ad49df923ea7820c.svg"] {
+  content: url("https://nyri4.github.io/Discolored/assets/treasure_chest.svg");
+}
+
+/* 🎁 Unclaimed */
+.theme-dark .imageUnclaimed-5nJyYs,
+.theme-light .imageUnclaimed-5nJyYs {
+  background-image: url("https://nyri4.github.io/Discolored/assets/unclaimed.svg");
+}
+
+/* 🔊 Vocal full */
+.fullArt-KDeDyg {
+  background-image: url("https://nyri4.github.io/Discolored/assets/vocal_full.svg");
+  background-size: 100%;
+}
+
+/* ⛏️ Wumpus Mining */
+[style*='background-image: url("/assets/532f1d4582d881960783.svg");'],
+[style*='background-image: url("/assets/ee4637f8627629dd0da5.svg");'] {
+  background-image: url("https://nyri4.github.io/Discolored/assets/wumpus_mining.svg") !important;
+}
+
+/* 🗻 Wumpus Mountains */
+[style*='background-image: url("/assets/01864c39871ce619d855.svg");'],
+[style*='background-image: url("/assets/a72746e7108167af95c8.svg");'] {
+  background-image: url("https://nyri4.github.io/Discolored/assets/wumpus_mountain.svg") !important;
+}
+
+/* 💤 Wumpus Sleeping */
+[style*='background-image: url("/assets/24aa06be5457e66bdd64.svg");'],
+[style*='background-image: url("/assets/0629e34902ae58f8e4ca.svg");'] {
+  background-image: url("https://nyri4.github.io/Discolored/assets/wumpus_sleeping.svg") !important;
+}
+
+/* 🍵 Wumpus Tea Party */
+[style*='background-image: url("/assets/bca918618b884a382ab5.svg");'],
+[style*='background-image: url("/assets/5741692705ba077f4190.svg");'],
+.theme-dark .notFriends__778a1 .errorStateIcon__7edd8,
+.theme-light .notFriends__778a1 .errorStateIcon__7edd8 {
+  background-image: url("https://nyri4.github.io/Discolored/assets/wumpus_tea_party.svg") !important;
+}
+
+/* 💬 Group chat */
+[class^="partyFull_"] {
+  background-image: url("https://nyri4.github.io/Discolored/assets/weapons.svg") !important;
+}
+
+/* 🏓 @everyone */
+.contentWarningPopout__7d8c2 g > :nth-child(2) > :first-child path {
+  fill: #0000003d;
+}
+.contentWarningPopout__7d8c2 g > :nth-child(3) > :first-child path {
+  fill: #99abd8;
+}
+.contentWarningPopout__7d8c2 g > :nth-child(3) > :nth-child(2) path {
+  fill: #7a8ec7;
+}
+.contentWarningPopout__7d8c2 g > :nth-child(4) > :first-child path {
+  fill: #b3cafb;
+}
+.contentWarningPopout__7d8c2 g > :nth-child(4) > :nth-child(2) path {
+  fill: #c2d2f1;
+}
+.contentWarningPopout__7d8c2 g > :nth-child(4) > :nth-child(3) path,
+.contentWarningPopout__7d8c2 g > :nth-child(4) > :nth-child(4) path {
+  fill: #a0b2dc;
+}
+.contentWarningPopout__7d8c2 g > :nth-child(4) > :nth-child(5) path,
+.contentWarningPopout__7d8c2 g > :nth-child(4) > :nth-child(6) path {
+  fill: #7a8ec7;
+}
+.contentWarningPopout__7d8c2 g > :nth-child(4) > :nth-child(7) path {
+  fill: #8ba0d2;
+}
+.contentWarningPopout__7d8c2 g > :nth-child(4) > :nth-child(8) path {
+  fill: #c2d2f1;
+}
+.contentWarningPopout__7d8c2 g > :nth-child(6) > :nth-child(2) path {
+  fill: #99abd8;
+}
+.contentWarningPopout__7d8c2 g > :nth-child(10) > :first-child path {
+  fill: #e0c310;
+}
+.contentWarningPopout__7d8c2 g > :nth-child(11) > :first-child path {
+  fill: #fbd907;
+}
+
+
 @import url("https://nyri4.github.io/donators/donators.css");
 :root .buttons__3766a {
   transition: opacity 150ms;
@@ -2513,4 +2859,166 @@
 .member_aa4760 .username__11d8c::after {
   bottom: 2px !important;
   left: 15px !important;
+}
+
+/* ═══════『 ⚠️・Important tips 』═══════
+*
+*   ➥ To comment or uncomment a line you need to put those "/" and "*" characters as you can see at the beginning and ending of my comments.
+*      (You don't need to put a * at each line like I do, it's just for readability). See more here : https://developer.mozilla.org/en-US/docs/Web/CSS/Comments
+*
+*   ➥ You can play with the values and see how it goes, don't delete "px" after the value if you don't have knowledge of CSS.
+*
+*   ➥ To change the colors, replace the HEX code with the one you picked here : https://htmlcolorcodes.com
+*/
+
+/* ═══════『 🚫 ・ No scrollbars 』- Comment the line below if you want the scrollbar back */
+@import "https://comfy-themes.github.io/Discord/betterdiscord/no-scrollbar.css";
+
+/* ═══════『 🎵 ・ Better SpotifyControls seek bar 』- Comment the line below if you don't want this spotify bar */
+@import "https://comfy-themes.github.io/Discord/betterdiscord/better-spotify.css";
+
+/* ═══════『 🎵 ・ Vencord Spotify Plugin 』- Comment the line below if you don't want this spotify bar FOR VENCORD */
+@import "https://comfy-themes.github.io/Discord/betterdiscord/vencord-spotify.css";
+
+:root {
+  /* ═══════『 💨 ・ Animations 』- If you don't want a high CPU usage, comment the line below */
+  --disable-animations: 2s channel-unread infinite;
+
+  /* ═══════『 ⚙️ / 🎤 / 🎧 ・ User button 』═══════
+*
+*   ➥ A higher value means more space between the icons and a lower ...
+*
+*    ℹ️ : If you want to revert those to the old area, join the support server and check #css-snippets
+*
+*/
+
+  /* Spacing - Default value : 8px */
+  --user-buttons-spacing: 8px !important;
+
+  /* Color - Default value : #096DC0 */
+  --user-buttons-color: #70ffba !important;
+
+  /* ═══════『 ⭕ Roundness settings 』═══════
+*
+*    ➥ A higher value means more rounded corners and a lower ...
+*       0 ➜ Square
+*       25 ➜ Circle
+*/
+
+  /* Avatars - Default value : 5px */
+  --avatar-radius: 10px !important;
+
+  /* Status - Default value : 3px */
+  --status-radius: 5px !important;
+
+  /* Servers - Default value : 8px */
+  --server-radius: 10px !important;
+
+  /* ═══════『 😃 Colored emoji picker 』═══════
+*   Change the value to "100%" if you want the default one */
+
+  --colored-emoji: grayscale(0%) !important;
+
+  /* ═══════『 📜 Server/channel list 』═══════ */
+
+  /* Mention - Default value : #F04747 */
+  --mention-color: #ae83ff !important;
+
+  /* Unread - Default value : #7289DA */
+  --unread-color: #ffacac !important;
+
+  /*  『 🔴 Mention colors in chat 』 */
+
+  /* Bar on the right - Default value : #C66262 */
+  --mention-color-bar: #ae83ff !important;
+
+  /* Background - Default value : #C662621F */
+  --mention-color-background: #ec7efb1f !important;
+
+  /* On hover - Default value : #C6626226 */
+  --mention-color-hover: #7dffd226 !important;
+
+  /* ═══════『 💬 Chat buttons 』═══════ */
+
+  /* Default value : #7289DA */
+  --chat-buttons: #9694ff !important;
+
+  /* ═══════『 💬 SpotifyControls seek bar 』═══════
+*   ℹ️ : If you don't have the plugin : https://betterdiscord.app/plugin/SpotifyControls */
+
+  /* Default value : #1EDC62 */
+  --spotify-color: #90ffb7 !important;
+
+  /* ═══════『 🟢 Status 』═══════ */
+
+  /* Online - Default value : #43B581 */
+  --online: #84ffc8 !important;
+
+  /* Idle - Default value : #FAA61A */
+  --iddle: #ffd07f !important;
+
+  /* Do Not Disturb - Default value : #F04747 */
+  --dnd: #ff8484 !important;
+
+  /* Offline - Default value : #747F8D */
+  --offline: #1b1c1f !important;
+
+  /* Streaming - Default value : #593695 */
+  --streaming: #593695 !important;
+
+  /* ═══════『 🔰 User popout 』═══════ */
+
+  /* Playing wave color */
+  --playing: #a784ff !important;
+
+  /* Listening wave color */
+  --listening: #52ef89 !important;
+
+  /* Role circle - Default value : 5px */
+  --role-circle: 5px !important;
+
+  /* ═══════『 🗑️ Discord logo 』═══════
+*   Set it to "block" if you still want it */
+
+  --discord-logo: block !important;
+}
+
+.theme-dark {
+  --background-primary: #000000 !important;
+  --background-secondary: #000000 !important;
+  --background-secondary-alt: #000000 !important;
+  --background-tertiary: #000000 !important;
+  --background-accent: #7cffcd !important;
+
+  --modal-background: #000000 !important;
+  --background-mobile-primary: #000000 !important;
+  --background-mobile-secondary: #000000 !important;
+  --channeltextarea-background: #000000 !important;
+  --background-message-hover: transparent !important;
+  --background-modifier-hover: #00000010 !important;
+  --background-modifier-active: #0000001a !important;
+  --background-modifier-selected: #0000001f !important;
+  --deprecated-card-bg: #000000 !important;
+  --background-floating: #000000 !important;
+  --deprecated-quickswitcher-input-background: #101320 !important;
+  --elevation-low: none !important;
+  --scrollbar-auto-thumb: #121722 !important;
+  --scrollbar-auto-track: #191f2e !important;
+  --scrollbar-thin-thumb: #141925 !important;
+  --activity-card-background: #101320 !important;
+  --input-background: #1e2233 !important;
+}
+
+.theme-light {
+  --background-primary: #23283d !important;
+  --background-secondary: #1e2233 !important;
+  --background-secondary-alt: #191f2e !important;
+  --background-tertiary: #101320 !important;
+  --background-accent: #3964ff !important;
+  --background-modifier-hover: #262b41 !important;
+  --background-modifier-active: #262b41 !important;
+  --modal-background: var(--background-primary) !important;
+  --header-primary: #fff !important;
+  --header-secondary: #b1b5b9 !important;
+  --text-normal: #8e9297 !important;
 }
