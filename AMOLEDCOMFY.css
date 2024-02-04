@@ -170,3 +170,31 @@
   --header-secondary: #b1b5b9 !important;
   --text-normal: #8e9297 !important;
 }
+
+/*Custom PFP*/
+img[src="https://cdn.discordapp.com/avatars/861917446750863402/51ee285f0a23185133c7660d80096028.webp?size=80"]
+ { 
+  content: url("https://cdn.discordapp.com/avatars/861917446750863402/51ee285f0a23185133c7660d80096028.gif?size=80") !important;
+ }
+
+/*Replace the User ID with yours, and change the content URL link to the custom PFP's image*/
+.userAvatar_c4f005:is([style*="861917446750863402"]),.avatar__08316:is([src^="https://cdn.discordapp.com/avatars/861917446750863402"]),.avatar__991e2:is([src^="https://cdn.discordapp.com/avatars/861917446750863402"]){
+    content:url(https://cdn.discordapp.com/avatars/861917446750863402/51ee285f0a23185133c7660d80096028.gif) !important;
+    object-fit:scale-down !important;
+    aspect-ratio:1 !important;
+    background-image:none !important;
+}
+/*Hide original home icon*/
+[data-list-item-id=guildsnav___home]>[class^=childWrapper_] {
+    display: none;
+}
+/*Add Custom Home Icon*/
+[data-list-item-id=guildsnav___home]::before {
+    content: "";
+    width: 60px;
+    height: 60px;
+    background-size: contain;
+    background-position: center;
+    background-image: url(https://raw.githubusercontent.com/T3M1N4L/DiscordLogos/main/controller_foreground.webp);
+  /*replace the URL with your image*/
+}
