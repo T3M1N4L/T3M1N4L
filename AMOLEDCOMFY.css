@@ -7,6 +7,7 @@
 * @donate https://ko-fi.com/nyria
 */
 
+
 @import "https://raw.githubusercontent.com/T3M1N4L/T3M1N4L/main/AMOLEDCOMFY.main.css";
 
 /* ═══════『 ⚠️・Important tips 』═══════
@@ -20,13 +21,13 @@
 */
 
 /* ═══════『 🚫 ・ No scrollbars 』- Comment the line below if you want the scrollbar back */
-@import "https://raw.githubusercontent.com/Comfy-Themes/Discord/master/betterdiscord/no-scrollbar.css";
+@import "https://comfy-themes.github.io/Discord/betterdiscord/no-scrollbar.css";
 
 /* ═══════『 🎵 ・ Better SpotifyControls seek bar 』- Comment the line below if you don't want this spotify bar */
-@import "https://raw.githubusercontent.com/Comfy-Themes/Discord/master/betterdiscord/better-spotify.css";
+@import "https://comfy-themes.github.io/Discord/betterdiscord/better-spotify.css";
 
 /* ═══════『 🎵 ・ Vencord Spotify Plugin 』- Comment the line below if you don't want this spotify bar FOR VENCORD */
-@import "https://raw.githubusercontent.com/Comfy-Themes/Discord/master/betterdiscord/vencord-spotify.css";
+@import "https://comfy-themes.github.io/Discord/betterdiscord/vencord-spotify.css";
 
 :root {
   /* ═══════『 💨 ・ Animations 』- If you don't want a high CPU usage, comment the line below */
@@ -44,7 +45,7 @@
   --user-buttons-spacing: 8px !important;
 
   /* Color - Default value : #096DC0 */
-  --user-buttons-color: #70ffba !important;
+  --user-buttons-color: #872bff !important;
 
   /* ═══════『 ⭕ Roundness settings 』═══════
 *
@@ -60,7 +61,7 @@
   --status-radius: 5px !important;
 
   /* Servers - Default value : 8px */
-  --server-radius: 14px !important;
+  --server-radius: 10px !important;
 
   /* ═══════『 😃 Colored emoji picker 』═══════
 *   Change the value to "100%" if you want the default one */
@@ -89,7 +90,7 @@
   /* ═══════『 💬 Chat buttons 』═══════ */
 
   /* Default value : #7289DA */
-  --chat-buttons: #9694ff !important;
+  --chat-buttons: #6f6dff !important;
 
   /* ═══════『 💬 SpotifyControls seek bar 』═══════
 *   ℹ️ : If you don't have the plugin : https://betterdiscord.app/plugin/SpotifyControls */
@@ -136,7 +137,7 @@
   --background-secondary: #000000 !important;
   --background-secondary-alt: #000000 !important;
   --background-tertiary: #000000 !important;
-  --background-accent: #7cffcd !important;
+  --background-accent: #872bff !important;
 
   --modal-background: #000000 !important;
   --background-mobile-primary: #000000 !important;
@@ -170,11 +171,13 @@
   --header-secondary: #b1b5b9 !important;
   --text-normal: #8e9297 !important;
 }
+
+
 /*Hide original home icon*/
 [data-list-item-id=guildsnav___home]>[class^=childWrapper_] {
     display: none;
 }
-/*Add Custom Home Icon*/
+/*Add oneko*/
 [data-list-item-id=guildsnav___home]::before {
     content: "";
     width: 60px;
@@ -182,8 +185,131 @@
     background-size: contain;
     background-position: center;
     background-image: url(https://raw.githubusercontent.com/T3M1N4L/DiscordLogos/main/controller_foreground.webp);
-  /*replace the URL with your image*/
 }
-.itemCard_f02fcf{
-  background-color: black;
+:root .autocomplete_bcc24e {
+  background: #000;
+}
+.content_eed6a8>:nth-child(n+4):nth-child(-n+5),
+.anchor_af404b[aria-label~="Subscriber"],
+.anchor_af404b[aria-label~="Boosting"],
+.container_da1432,
+.customizationSection_b3a5c2:nth-child(5),
+.premiumFeatureBorder_c6d722,
+.upsellOverlayContainer_eb49af,
+.premiumTab_c10c74,
+.side_a0>:nth-child(n+10):nth-child(-n+16),
+.side_a0>:nth-child(42),
+.side_a0>:nth-child(49),
+.premiumIcon_f45ea6,
+.selectionGroup_bde965 {
+  display: none;
+}
+.messageListItem_d5deea {
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+
+  position: relative;
+  -webkit-transition-property: color;
+  transition-property: color;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+}
+.messageListItem_d5deea:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #1b1b1b; /*Change this to change the color*/
+  -webkit-transform: scaleX(0);
+  transform: scaleX(0);
+  -webkit-transform-origin: 0 50%;
+  transform-origin: 0 50%;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+  border-radius: 20px;
+  opacity: 30%;
+}
+.messageListItem_d5deea:hover,
+.messageListItem_d5deea:focus,
+.messageListItem_d5deea:active {
+  color: white;
+}
+.messageListItem_d5deea:hover:before,
+.messageListItem_d5deea:focus:before,
+.messageListItem_d5deea:active:before {
+  -webkit-transform: scaleX(1);
+  transform: scaleX(1);
+}
+.cozy_f9f2ca .headerText_f9f2ca > .username_f9f2ca::before {
+  content: ''; 
+  width: calc(100% + 10px); 
+  height: 100%;
+  border-radius: 5px;
+  background-color: currentColor; 
+  opacity: 0.2; 
+  position: absolute; 
+  top: 0; 
+  z-index: -1;
+  left: -5px;
+}
+.cozy_f9f2ca .headerText_f9f2ca > .username_f9f2ca {
+  margin-left: 5px;
+}
+.typing_d7ebeb .text_d7ebeb { display: flex; align-items: center;}
+
+.typing_d7ebeb .text_d7ebeb strong { 
+    margin: 0 3px;
+    line-height: 21px;
+    animation: slideUp 300ms;
+}
+@keyframes slideUp {
+    0% { margin-top: -50px;}
+    100% { margin-top: 0;}
+}
+.channelTextArea_a7d72e .buttons_d0696b > * { position: relative; top: -44px;}
+.channelTextArea_a7d72e:hover .buttons_d0696b > * { top: 0;}
+
+.appMount_ea7e65 .app_bd26cc { opacity: 0; transition: 0.15s;}
+.appMount_ea7e65:hover .app_bd26cc { opacity: 1; transition: 0.15s;}
+.appMount_ea7e65:after {
+    content: "";
+    position: fixed;
+    background: url('https://raw.githubusercontent.com/T3M1N4L/T3M1N4L/main/images/XOsX.gif') center/8% no-repeat;
+    width: 100%; height: 100%;
+    opacity: 1;
+}
+.appMount_ea7e65:hover:after { opacity: 0; pointer-events: none;}
+.role_f9575e {
+  transform: translate(0);
+  overflow: hidden;
+  border: 0;
+
+  --transparency: .4;
+  border-radius: 5px;
+}
+.role_f9575e .roleRemoveIcon_e4010c {
+  margin: 0;
+  left: unset;
+  transform: translate(50%, -50%);
+}
+.role_f9575e .roleRemoveButton_f9575e {
+  position: static;
+}
+.role_f9575e .roleCircle_a26d7b:after {
+  content: '';
+  top: 0;
+  left: 0;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background: inherit;
+  opacity: var(--transparency);
 }
