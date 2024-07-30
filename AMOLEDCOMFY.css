@@ -281,7 +281,7 @@
 .appMount_ea7e65:after {
     content: "";
     position: fixed;
-    background: url('https://raw.githubusercontent.com/T3M1N4L/T3M1N4L/main/images/XOsX.gif') center/8% no-repeat;
+    background: url('https://raw.githubusercontent.com/T3M1N4L/T3M1N4L/main/images/XOsX.gif') center/20% no-repeat;
     width: 100%; height: 100%;
     opacity: 1;
 }
@@ -312,4 +312,7 @@
   position: absolute;
   background: inherit;
   opacity: var(--transparency);
+}
+.body_b07019, .footer_b07019, .biteSizeOuter_c69a7b, .userPopoutInner_c69a7b, .userProfileModalInner_c69a7b, .container_c1519f, .fullSizeOverlayBackground_c69a7b, .container_e5a42d, .activityBiteSizePopout_c1d9fd, .statusBubble_d0a252, .statusBubbleOuter_d0a252::before, statusBubbleOuter_d0a252 {
+  background-color: var(--background-primary) ;
 }
