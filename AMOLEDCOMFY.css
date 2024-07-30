@@ -313,6 +313,14 @@
   background: inherit;
   opacity: var(--transparency);
 }
-.body_b07019, .footer_b07019, .biteSizeOuter_c69a7b, .userPopoutInner_c69a7b, .userProfileModalInner_c69a7b, .container_c1519f, .fullSizeOverlayBackground_c69a7b, .container_e5a42d, .activityBiteSizePopout_c1d9fd, .statusBubble_d0a252, .statusBubbleOuter_d0a252::before, statusBubbleOuter_d0a252 {
+.userPopoutInner_c69a7b, .userProfileModalInner_c69a7b, .container_c1519f, .fullSizeOverlayBackground_c69a7b, .container_e5a42d, .activityBiteSizePopout_c1d9fd, .statusBubble_d0a252, .statusBubbleOuter_d0a252::before, statusBubbleOuter_d0a252 {
   background-color: var(--background-primary) ;
+}
+
+.autocompleteRowIcon_bcc24e foreignObject {
+  mask: none;
+}
+
+.autocompleteRowIcon_bcc24e .avatar_c51b4e {
+  border-radius: 7px;
 }
