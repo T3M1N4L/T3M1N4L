@@ -189,21 +189,7 @@
 :root .autocomplete_bcc24e {
   background: #000;
 }
-.content_eed6a8>:nth-child(n+4):nth-child(-n+5),
-.anchor_af404b[aria-label~="Subscriber"],
-.anchor_af404b[aria-label~="Boosting"],
-.container_da1432,
-.customizationSection_b3a5c2:nth-child(5),
-.premiumFeatureBorder_c6d722,
-.upsellOverlayContainer_eb49af,
-.premiumTab_c10c74,
-.side_a0>:nth-child(n+10):nth-child(-n+16),
-.side_a0>:nth-child(42),
-.side_a0>:nth-child(49),
-.premiumIcon_f45ea6,
-.selectionGroup_bde965 {
-  display: none;
-}
+
 .messageListItem_d5deea {
   -webkit-transform: perspective(1px) translateZ(0);
   transform: perspective(1px) translateZ(0);
@@ -214,6 +200,7 @@
   -webkit-transition-duration: 0.3s;
   transition-duration: 0.3s;
 }
+
 .messageListItem_d5deea:before {
   content: "";
   position: absolute;
@@ -313,7 +300,7 @@
   background: inherit;
   opacity: var(--transparency);
 }
-.userPopoutInner_c69a7b, .userProfileModalInner_c69a7b, .container_c1519f, .fullSizeOverlayBackground_c69a7b, .container_e5a42d, .activityBiteSizePopout_c1d9fd, .statusBubble_d0a252, .statusBubbleOuter_d0a252::before, statusBubbleOuter_d0a252 {
+.userPopoutInner_c69a7b, .userProfileModalInner_c69a7b, .container_c1519f, .fullSizeOverlayBackground_c69a7b, .container_e5a42d, .activityBiteSizePopout_c1d9fd, .statusBubble_d0a252, .statusBubbleOuter_d0a252::before, statusBubble_d0a252.statusBubbleShape_d0a252.statusBubbleSingleLineWithTextShape_d0a252.statusBubbleWithTextPadding_d0a252::after  {
   background-color: var(--background-primary) ;
 }
 
@@ -324,3 +311,4 @@
 .autocompleteRowIcon_bcc24e .avatar_c51b4e {
   border-radius: 7px;
 }
+statusBubble_d0a252.statusBubbleShape_d0a252.statusBubbleSingleLineWithTextShape_d0a252.statusBubbleWithTextPadding_d0a252
