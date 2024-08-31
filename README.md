@@ -26,7 +26,7 @@
     "github": "T3M1N4L",
     "discord": "t3rm1n4l_"
   },
-  "certifications": ["none"],
+  "certifications": ["none lmfao i'm stupid"],
   "hasBrainDamage": true
 }
 ```
