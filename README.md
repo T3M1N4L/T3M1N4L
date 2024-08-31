@@ -4,7 +4,7 @@
 # <p align="center"><img src="./rikka.webp" height="150px"/>&nbsp;&nbsp;&nbsp;<img src="./namecard.png" height="150px"/></p>
 
 # <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&duration=3000&pause=20&color=00F7AE&multiline=true&random=false&width=450&height=75&separator=%3C&lines=%2F%2F+Hello+World%3Cconsole.log(%22Hello%2C+World!%22);"/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> Whats up, `</developers>`
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=A538F7&width=435&lines=Hey%2C+I'm+T3RM1N4L;I'm+a+software+developer%3F;I+like+bypassing+security;Don't+sue+me;Check+out+me+repos+and+follow+me;I'm+a+silly+duck)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=A538F7&width=435&lines=Hey%2C+I'm+T3RM1N4L;I'm+a+software+developer%3F;I+like+bypassing+security;Don't+sue+me;Check+out+my+repos+and+follow+me;I'm+a+silly+duck)
 
 ### <samp>More stuff about me...</samp>
 ```JSON
