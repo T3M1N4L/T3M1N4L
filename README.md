@@ -47,5 +47,6 @@
 </a>  
   <br>
   <img src="./tuxtip.png" width="400px"/>
+  <img src="https://moe-counter.glitch.me/get/@T3RM1N4L" width="410px"/>
 </p>
 
