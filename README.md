@@ -40,10 +40,11 @@
 
 ><h2><samp>Stuff</samp></h2>
 <p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=T3M1N4L&show_icons=true&title_color=59ffa9ff&text_color=8E8E8E&icon_color=cf93faff&bg_color=000000ff&hide_border=true" height="200px"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=T3M1N4L&show_icons=true&title_color=59ffa9ff&text_color=8E8E8E&icon_color=cf93faff&bg_color=000000ff&hide_border=true" height="180px"/>
  <a href="https://discord.com/users/861917446750863402">
-  <img src="https://lanyard.kyrie25.me/api/861917446750863402?gradient=4fff9e-4fff9e&animated=true&bg=000&useDisplayName=true&showBanner=animated&waveColor=8426ff&waveSpotifyColor=52EF89-light&imgStyle=square&bannerFilter=brightness(0.8)%20blur(2px)&hideDiscrim=false&borderRadius=20px&idleMessage=%3C%2Fbeing+lazy%3E..." height="200px"/>
+  <img src="https://lanyard.kyrie25.me/api/861917446750863402?gradient=4fff9e-4fff9e&animated=true&bg=000&useDisplayName=true&showBanner=animated&waveColor=8426ff&waveSpotifyColor=52EF89-light&imgStyle=square&bannerFilter=brightness(0.8)%20blur(2px)&hideDiscrim=false&borderRadius=20px&idleMessage=%3C%2Fbeing+lazy%3E..." height="180px"/>
 </a>  
+  <br>
   <img src="./tuxtip.png" width="400px"/>
 </p>
 
