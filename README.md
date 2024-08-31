@@ -13,7 +13,7 @@
   "name": "T3RM1N4L",
   "age": "13",
   "whatIDoEveryNight" : "sleep" ,
-  "intrests": ["programming", "evading censorship", "sleep", "anime", "music", "amoled theme"],
+  "intrests": ["programming", "evading censorship", "sleep", "drawing", "anime", "music", "amoled theme"],
   "operatingSystem": "Mac / Arch / Win11",
   "browser": "Firefox/Chrome/Arc/Zen",
   "browserExtensions": ["Ublock Origin", "Tampermonkey", "Dark Mode", "ResourcesSaver", "Vencord"],
