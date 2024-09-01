@@ -1,7 +1,7 @@
 
 
 
-# <p align="center"><img src="./rikka.webp" height="15vh"/>&nbsp;&nbsp;&nbsp;<img src="./namecard.png" height="150vh"/></p>
+# <p align="center"><img src="./rikka.webp" height="150vh"/>&nbsp;&nbsp;&nbsp;<img src="./namecard.png" height="150vh"/></p>
 
 # <p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" ><samp> hello hello, fellow `</humans>`, I'm a <code>sleep demon</code> </samp><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" > </p>
 
