@@ -45,7 +45,7 @@
  <a href="https://discord.com/users/861917446750863402">
   <img src="https://lanyard.kyrie25.me/api/861917446750863402?gradient=4fff9e-4fff9e&animated=true&bg=000&useDisplayName=true&showBanner=animated&waveColor=8426ff&waveSpotifyColor=52EF89-light&imgStyle=square&bannerFilter=brightness(0.8)%20blur(2px)&hideDiscrim=false&borderRadius=20px&idleMessage=%3C%2Fbeing+lazy%3E..." height="190vh"/>
 </a>  
-    <img src="https://streak-stats.demolab.com?user=T3M1N4L&theme=midnight-purple&hide_border=true&border_radius=15&background=000000&stroke=8518EB" alt="GitHub Streak" width="420vh"/><img src="https://moe-counter.glitch.me/get/@T3RM1N4L" width="420vh"/>
+    <img src="https://streak-stats.demolab.com?user=T3M1N4L&theme=midnight-purple&hide_border=true&border_radius=15&background=000000&stroke=8518EB" alt="GitHub Streak" width="420vh"/><img src="https://count.getloli.com/@T3RM1N4L?name=T3RM1N4L&theme=moebooru&padding=7&offset=0&scale=1&pixelated=1&darkmode=1" width="420vh"/>
   <br>
   <img src="./tuxtip.png" width="400vh"/>
 </p>
