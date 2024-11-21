@@ -3,7 +3,7 @@
 
 # <p align="center"><img src="./cat.webp" height="155vh"/>&nbsp;&nbsp;&nbsp;<img src="./namecard.png" height="155vh"/></p>
 
-# <p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" ><samp> hello hello, fellow `</humans>`, I'm <code>hella sleepy</code> </samp><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" > </p>
+# <p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" ><samp> hello hello, fellow `</humans>`, I'm <code>hella sleepy</code> 😭 </samp><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" > </p>
 
 <img src="./images/XOsX.gif" width="45px" />![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=A538F7&width=435&lines=Hey%2C+I'm+T3RM1N4L;I'm+a+software+developer%3F;I+like+bypassing+security;Don't+sue+me;Check+out+my+repos+and+follow+me;I'm+a+silly+duck;I'm+sleep+deprived+as+hell)
 
