@@ -47,6 +47,6 @@
 </a>  
     <img src="https://streak-stats.demolab.com?user=T3M1N4L&theme=midnight-purple&hide_border=true&border_radius=15&background=000000&stroke=8518EB" alt="GitHub Streak" width="420vh"/><img src="https://count.getloli.com/@T3RM1N4L?name=T3RM1N4L&theme=moebooru&padding=7&offset=0&scale=1&pixelated=1&darkmode=1" width="420vh"/>
   <br>
-  <img src="./tuxtip.png" width="400vh"/>
+  <img src="./tuxtip.png" height="240vh"/>  &nbsp;<img src="./vtuber/vtuber-mid.png" height="240vh"/>
 </p>
 
