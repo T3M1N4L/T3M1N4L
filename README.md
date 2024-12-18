@@ -3,7 +3,7 @@
 
 # <p align="center"><img src="./cat.webp" height="155vh"/>&nbsp;&nbsp;&nbsp;<img src="./namecard.png" height="155vh"/></p>
 
-# <p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" ><samp> hello hello, fellow `</humans>`, I'm <code>hella sleepy</code> 😭 </samp><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" > </p>
+# <p align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" ><samp> hello hello, fellow `</humans>`, I'm <code>hella sleepy</code>🥱</samp><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" > </p>
 
 <img src="./images/XOsX.gif" width="45px" />![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=A538F7&width=435&lines=Hey%2C+I'm+T3RM1N4L;I'm+a+software+developer%3F;I+like+bypassing+security;Don't+sue+me;Check+out+my+repos+and+follow+me;I'm+a+silly+duck;I'm+sleep+deprived+as+hell)
 
@@ -34,7 +34,7 @@
 <h2><samp> 💀 What I know / What I'm learning</samp></h2>
 <p  align="center">
 <a  href="">
-<img  src="https://skillicons.dev/icons?i=html,js,css,stackoverflow,py,powershell,nodejs,linux,md,jquery,gmail,github,git,codepen,cpp,discord,bots,heroku,netlify,notion,obsidian,pr,svg,vscode,wasm,windows,ps,arch,blender,bash&theme=dark&perline=10"/>
+<img  src="https://skillicons.dev/icons?i=html,js,css,stackoverflow,py,powershell,nodejs,linux,md,jquery,gmail,github,git,codepen,cpp,discord,netlify,notion,pr,svg,vscode,wasm,windows,ps,arch,blender,bash,bun,figma,gitlab,npm,raspberrypi,replit,sass,ts&theme=dark&perline=10"/>
 </a>
 </p>
 
