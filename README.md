@@ -22,7 +22,7 @@
  "burpsuite", "wpscan", "traceroute", "hashcat", "sherlock"],
     "editor": "VSCode",
     "socials": {
-    "email": "t3rm1n4l9727@proton.me",
+    "email": "contact@t3rm1n4l.dev",
     "github": "T3M1N4L",
     "discord": "t3rm1n4l_"
   },
