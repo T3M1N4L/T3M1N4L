@@ -11,7 +11,7 @@
 ```JSON
 {
   "name": "T3RM1N4L",
-  "age": "13",
+  "age": "14",
   "whatIDoEveryNight" : "sleep" ,
   "intrests": ["programming", "evading censorship", "sleep", "drawing", "anime", "music", "amoled theme"],
   "operatingSystem": "Mac / Arch / Win11",
