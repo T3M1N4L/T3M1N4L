@@ -5,35 +5,15 @@
 
 
 ### <samp> 🫤 More stuff about me...</samp>
-```JSON
-{
-  "name": "T3RM1N4L",
-  "age": "14",
-  "whatIDoEveryNight" : "sleep" ,
-  "intrests": ["programming", "evading censorship", "sleep", "drawing", "anime", "music", "amoled theme"],
-  "operatingSystem": "Mac / Arch / Win11",
-  "browser": "Firefox/Chrome/Arc/Zen",
-  "browserExtensions": ["Ublock Origin", "Tampermonkey", "Dark Mode", "ResourcesSaver", "Vencord"],
-  "programmingLanguages": ["JS", "HTML", "C", "Python", "CSS", "Typescript", "C++"],
-  "hackingTools": ["nmap", "wireshark", "hydra", "metasploit-framework", "aircrack-ng", "john",
- "burpsuite", "wpscan", "traceroute", "hashcat", "sherlock"],
-    "editor": "VSCode",
-    "socials": {
-    "email": "contact@t3rm1n4l.dev",
-    "github": "T3M1N4L",
-    "discord": "t3rm1n4l_"
-  },
-  "certifications": ["none lmfao i'm stupid"],
-  "hasBrainDamage": true
-}
-```
-
-<h2><samp> 💀 What I know / What I'm learning</samp></h2>
+I like the color black.
+<details>
+<summary><h2><samp> 💀 What I know / What I'm learning</samp></h2></summary>
 <p  align="center">
 <a  href="">
 <img  src="https://skillicons.dev/icons?i=html,js,css,stackoverflow,py,powershell,nodejs,linux,md,jquery,gmail,github,git,codepen,cpp,discord,netlify,notion,pr,svg,vscode,wasm,windows,ps,arch,blender,bash,bun,figma,gitlab,npm,raspberrypi,replit,sass,ts&theme=dark&perline=10"/>
 </a>
 </p>
+</details>
 
 
 <h2><samp> 😭 Stuff</samp></h2>
