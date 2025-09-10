@@ -18,9 +18,9 @@ I like the color black.
 
 <h2><samp> 😭 Stuff</samp></h2>
 <p align="center"> 
-  <img  src="https://github-readme-stats.vercel.app/api?username=T3M1N4L&show_icons=true&title_color=59ffa9ff&text_color=e6edf3&icon_color=cf93faff&bg_color=000000ff&hide_border=true&border_radius=15&rank_icon=github" height="190vh"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=T3M1N4L&show_icons=true&title_color=a057fe&text_color=e6edf3&icon_color=54deab&bg_color=000000ff&hide_border=true&border_radius=15&rank_icon=github" height="190vh"/>
  <a href="https://discord.com/users/861917446750863402">
-  <img src="https://lanyard.kyrie25.dev/api/861917446750863402?gradient=4fff9e-4fff9e&animated=true&bg=000&useDisplayName=true&showBanner=animated&waveColor=8426ff&waveSpotifyColor=52EF89-light&imgStyle=square&bannerFilter=brightness(0.8)%20blur(2px)&hideDiscrim=false&borderRadius=20px&idleMessage=%3C%2Fbeing+lazy%3E..." height="190vh"/>
+  <img src="https://lanyard.kyrie25.dev/api/861917446750863402?bg=000000&animatedDecoration=true&hideTimestamp=false&showDisplayName=true&idleMessage=%3C%2Fbeing%20lazy%3E...&theme=dark&imgStyle=square&clanbg=242424&hideProfile=false&hideDiscrim=false&waveColor=8426ff&waveSpotifyColor=52EF89-light&gradient=a057fe-6755B4-6755B4&hideBadges=false&showBanner=animated&bannerFilter=brightness(0.8)%20blur(2px)" height="190vh"/>
 </a>  
     <img src="https://streak-stats.demolab.com?user=T3M1N4L&theme=midnight-purple&hide_border=true&border_radius=15&background=000000&stroke=8518EB" alt="GitHub Streak" width="420vh"/><img src="https://count.getloli.com/@T3RM1N4L?name=T3RM1N4L&theme=moebooru&padding=7&offset=0&scale=1&pixelated=1&darkmode=1" width="420vh"/>
   <br>
